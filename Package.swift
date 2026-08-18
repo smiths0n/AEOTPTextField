@@ -11,6 +11,6 @@ let package = Package(
         .library(name: "AEOTPTextField", targets: ["AEOTPTextField"])
     ],
     targets: [
-        .target(name: "AEOTPTextField", path: "Source")
+        .target(name: "AEOTPTextField", path: "AEOTPTextField")
     ]
 )

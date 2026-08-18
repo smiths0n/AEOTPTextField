@@ -86,6 +86,7 @@
 		F4DF030B2652DC09004B24B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4DF030E2652DC09004B24B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4DF03102652DC09004B24B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA0E360E303494B800E9168E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +217,7 @@
 		F4DF02D82652DB22004B24B0 = {
 			isa = PBXGroup;
 			children = (
+				FA0E360E303494B800E9168E /* Package.swift */,
 				F4DF02E42652DB22004B24B0 /* AEOTPTextField */,
 				F4DF02EF2652DB23004B24B0 /* AEOTPTextFieldTests */,
 				F4DF03012652DBFA004B24B0 /* AEOTPTextFieldExample */,
